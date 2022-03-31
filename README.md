@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oluwabusayomi11
+- 👋 Hi, I’m @Oluwabusayomi
 - 👀 I’m interested in food
 - 🌱 I’m currently learning Front-end web development & Data Science
 - 💞️ I’m looking to collaborate on projects on Front-end development & Data Science
